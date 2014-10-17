@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dij:home|Door43 (dij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dij|d43-dij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dij/archive/master.zip|d43-dij.zip]]
+
+**Recent Changes**
+{{changes>ns = dij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dij|Ethnologue data]]
+
